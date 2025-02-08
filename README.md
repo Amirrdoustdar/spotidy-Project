@@ -35,8 +35,9 @@ Spotidy Project is a Python tool that detects and removes duplicate tracks from 
     ```
 
 4. **Configure Environment Variables:**
-    - Rename the file `.env.example` to `.env`.
-    - Fill in your Spotify and email credentials in the `.env` file.
+    - Rename `.env.example` to `.env`.
+    - Fill in your Spotify and email credentials in `.env`.
+
 
 ## Usage
 
